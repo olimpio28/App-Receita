@@ -1,0 +1,18 @@
+   body{
+     background-color:rgb(114, 7, 7);
+      }
+	#imgpos {
+		position:fixed;
+		left:100%;
+		top:0;
+		margin-left:-110px;
+		margin-top:50px;
+		}
+
+		h1,h2{
+			color: rgb(241, 231, 231);
+			font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+			font-style: normal ;
+
+
+		}
